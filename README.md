@@ -5,7 +5,7 @@
 
 - 🔥 Fullstack Developer 
 
-- 🔭 I’m currently working at [MCM]
+<!-- - 🔭 I’m currently working at [] -->
 
 - 👨‍💻 All of my projects are available at [robertovieira.com.br](https://robertovieira.com.br)
 
