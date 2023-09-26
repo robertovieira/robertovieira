@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working at [] -->
 
-- 👨‍💻 All of my projects are available at [robertovieira.com.br](https://robertovieira.com.br) !Website under maintenance!
+- 👨‍💻 All of my projects are available at [robertovieira.com.br](https://robertovieira.com.br) >> Website under maintenance <<
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
